@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.square{
+  width: 150px;
+  height: 150px;
+  font-size: 25px;
+}
+.square:active{
+  width: 150px;
+  height: 150px;
+  font-size: 25px;
+}
+.grid{
+  margin-left: 30rem;
+}
